@@ -3,7 +3,7 @@
 
 //Marcello Savoldi 57130621
 
-int main(int argc, char* argv[])
+int main()
 {
     double a = 0.0;
     double b = 0.0;
